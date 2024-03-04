@@ -1,11 +1,11 @@
 .container {
-  display: felx;
+	display: flex;
 }
 
 .menu {
-  flex: 1;
+	flex: 1;
 }
 
 .content {
-  flex: 4;
+	flex: 4;
 }
